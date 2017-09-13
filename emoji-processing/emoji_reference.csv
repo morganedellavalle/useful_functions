@@ -1,0 +1,843 @@
+Bytes,Description
+ F0 9F 98 81,grinning_face_with_smiling_eyes
+ F0 9F 98 82,face_with_tears_of_joy
+ F0 9F 98 83,smiling_face_with_open_mouth
+ F0 9F 98 84,smiling_face_with_open_mouth_and_smiling_eyes
+ F0 9F 98 85,smiling_face_with_open_mouth_and_cold_sweat
+ F0 9F 98 86,smiling_face_with_open_mouth_and_tightly-closed_eyes
+ F0 9F 98 89,winking_face
+ F0 9F 98 8A,smiling_face_with_smiling_eyes
+ F0 9F 98 8B,face_savouring_delicious_food
+ F0 9F 98 8C,relieved_face
+ F0 9F 98 8D,smiling_face_with_heart-shaped_eyes
+ F0 9F 98 8F,smirking_face
+ F0 9F 98 92,unamused_face
+ F0 9F 98 93,face_with_cold_sweat
+ F0 9F 98 94,pensive_face
+ F0 9F 98 96,confounded_face
+ F0 9F 98 98,face_throwing_a_kiss
+ F0 9F 98 9A,kissing_face_with_closed_eyes
+ F0 9F 98 9C,face_with_stuck-out_tongue_and_winking_eye
+ F0 9F 98 9D,face_with_stuck-out_tongue_and_tightly-closed_eyes
+ F0 9F 98 9E,disappointed_face
+ F0 9F 98 A0,angry_face
+ F0 9F 98 A1,pouting_face
+ F0 9F 98 A2,crying_face
+ F0 9F 98 A3,persevering_face
+ F0 9F 98 A4,face_with_look_of_triumph
+ F0 9F 98 A5,disappointed_but_relieved_face
+ F0 9F 98 A8,fearful_face
+ F0 9F 98 A9,weary_face
+ F0 9F 98 AA,sleepy_face
+ F0 9F 98 AB,tired_face
+ F0 9F 98 AD,loudly_crying_face
+ F0 9F 98 B0,face_with_open_mouth_and_cold_sweat
+ F0 9F 98 B1,face_screaming_in_fear
+ F0 9F 98 B2,astonished_face
+ F0 9F 98 B3,flushed_face
+ F0 9F 98 B5,dizzy_face
+ F0 9F 98 B7,face_with_medical_mask
+ F0 9F 98 B8,grinning_cat_face_with_smiling_eyes
+ F0 9F 98 B9,cat_face_with_tears_of_joy
+ F0 9F 98 BA,smiling_cat_face_with_open_mouth
+ F0 9F 98 BB,smiling_cat_face_with_heart-shaped_eyes
+ F0 9F 98 BC,cat_face_with_wry_smile
+ F0 9F 98 BD,kissing_cat_face_with_closed_eyes
+ F0 9F 98 BE,pouting_cat_face
+ F0 9F 98 BF,crying_cat_face
+ F0 9F 99 80,weary_cat_face
+ F0 9F 99 85,face_with_no_good_gesture
+ F0 9F 99 86,face_with_ok_gesture
+ F0 9F 99 87,person_bowing_deeply
+ F0 9F 99 88,see-no-evil_monkey
+ F0 9F 99 89,hear-no-evil_monkey
+ F0 9F 99 8A,speak-no-evil_monkey
+ F0 9F 99 8B,happy_person_raising_one_hand
+ F0 9F 99 8C,person_raising_both_hands_in_celebration
+ F0 9F 99 8D,person_frowning
+ F0 9F 99 8E,person_with_pouting_face
+ F0 9F 99 8F,person_with_folded_hands
+ E2 9C 82,black_scissors
+ E2 9C 85,white_heavy_check_mark
+ E2 9C 88,airplane
+ E2 9C 89,envelope
+ E2 9C 8A,raised_fist
+ E2 9C 8B,raised_hand
+ E2 9C 8C,victory_hand
+ E2 9C 8F,pencil
+ E2 9C 92,black_nib
+ E2 9C 94,heavy_check_mark
+ E2 9C 96,heavy_multiplication_x
+ E2 9C A8,sparkles
+ E2 9C B3,eight_spoked_asterisk
+ E2 9C B4,eight_pointed_black_star
+ E2 9D 84,snowflake
+ E2 9D 87,sparkle
+ E2 9D 8C,cross_mark
+ E2 9D 8E,negative_squared_cross_mark
+ E2 9D 93,black_question_mark_ornament
+ E2 9D 94,white_question_mark_ornament
+ E2 9D 95,white_exclamation_mark_ornament
+ E2 9D 97,heavy_exclamation_mark_symbol
+ E2 9D A4,heavy_black_heart
+ E2 9E 95,heavy_plus_sign
+ E2 9E 96,heavy_minus_sign
+ E2 9E 97,heavy_division_sign
+ E2 9E A1,black_rightwards_arrow
+ E2 9E B0,curly_loop
+ F0 9F 9A 80,rocket
+ F0 9F 9A 83,railway_car
+ F0 9F 9A 84,high-speed_train
+ F0 9F 9A 85,high-speed_train_with_bullet_nose
+ F0 9F 9A 87,metro
+ F0 9F 9A 89,station
+ F0 9F 9A 8C,bus
+ F0 9F 9A 8F,bus_stop
+ F0 9F 9A 91,ambulance
+ F0 9F 9A 92,fire_engine
+ F0 9F 9A 93,police_car
+ F0 9F 9A 95,taxi
+ F0 9F 9A 97,automobile
+ F0 9F 9A 99,recreational_vehicle
+ F0 9F 9A 9A,delivery_truck
+ F0 9F 9A A2,ship
+ F0 9F 9A A4,speedboat
+ F0 9F 9A A5,horizontal_traffic_light
+ F0 9F 9A A7,construction_sign
+ F0 9F 9A A8,police_cars_revolving_light
+ F0 9F 9A A9,triangular_flag_on_post
+ F0 9F 9A AA,door
+ F0 9F 9A AB,no_entry_sign
+ F0 9F 9A AC,smoking_symbol
+ F0 9F 9A AD,no_smoking_symbol
+ F0 9F 9A B2,bicycle
+ F0 9F 9A B6,pedestrian
+ F0 9F 9A B9,mens_symbol
+ F0 9F 9A BA,womens_symbol
+ F0 9F 9A BB,restroom
+ F0 9F 9A BC,baby_symbol
+ F0 9F 9A BD,toilet
+ F0 9F 9A BE,water_closet
+ F0 9F 9B 80,bath
+ E2 93 82,circled_latin_capital_letter_m
+ F0 9F 85 B0,negative_squared_latin_capital_letter_a
+ F0 9F 85 B1,negative_squared_latin_capital_letter_b
+ F0 9F 85 BE,negative_squared_latin_capital_letter_o
+ F0 9F 85 BF,negative_squared_latin_capital_letter_p
+ F0 9F 86 8E,negative_squared_ab
+ F0 9F 86 91,squared_cl
+ F0 9F 86 92,squared_cool
+ F0 9F 86 93,squared_free
+ F0 9F 86 94,squared_id
+ F0 9F 86 95,squared_new
+ F0 9F 86 96,squared_ng
+ F0 9F 86 97,squared_ok
+ F0 9F 86 98,squared_sos
+ F0 9F 86 99,squared_up_with_exclamation_mark
+ F0 9F 86 9A,squared_vs
+ F0 9F 87 A9 F0 9F 87 AA,regional_indicator_symbol_letter_d_+_regional_indicator_symbol_letter_e
+ F0 9F 87 AC F0 9F 87 A7,regional_indicator_symbol_letter_g_+_regional_indicator_symbol_letter_b
+ F0 9F 87 A8 F0 9F 87 B3,regional_indicator_symbol_letter_c_+_regional_indicator_symbol_letter_n
+ F0 9F 87 AF F0 9F 87 B5,regional_indicator_symbol_letter_j_+_regional_indicator_symbol_letter_p
+ F0 9F 87 B0 F0 9F 87 B7,regional_indicator_symbol_letter_k_+_regional_indicator_symbol_letter_r
+ F0 9F 87 AB F0 9F 87 B7,regional_indicator_symbol_letter_f_+_regional_indicator_symbol_letter_r
+ F0 9F 87 AA F0 9F 87 B8,regional_indicator_symbol_letter_e_+_regional_indicator_symbol_letter_s
+ F0 9F 87 AE F0 9F 87 B9,regional_indicator_symbol_letter_i_+_regional_indicator_symbol_letter_t
+ F0 9F 87 BA F0 9F 87 B8,regional_indicator_symbol_letter_u_+_regional_indicator_symbol_letter_s
+ F0 9F 87 B7 F0 9F 87 BA,regional_indicator_symbol_letter_r_+_regional_indicator_symbol_letter_u
+ F0 9F 88 81,squared_katakana_koko
+ F0 9F 88 82,squared_katakana_sa
+ F0 9F 88 9A,squared_cjk_unified_ideograph-7121
+ F0 9F 88 AF,squared_cjk_unified_ideograph-6307
+ F0 9F 88 B2,squared_cjk_unified_ideograph-7981
+ F0 9F 88 B3,squared_cjk_unified_ideograph-7a7a
+ F0 9F 88 B4,squared_cjk_unified_ideograph-5408
+ F0 9F 88 B5,squared_cjk_unified_ideograph-6e80
+ F0 9F 88 B6,squared_cjk_unified_ideograph-6709
+ F0 9F 88 B7,squared_cjk_unified_ideograph-6708
+ F0 9F 88 B8,squared_cjk_unified_ideograph-7533
+ F0 9F 88 B9,squared_cjk_unified_ideograph-5272
+ F0 9F 88 BA,squared_cjk_unified_ideograph-55b6
+ F0 9F 89 90,circled_ideograph_advantage
+ F0 9F 89 91,circled_ideograph_accept
+ C2 A9,copyright_sign
+ C2 AE,registered_sign
+ E2 80 BC,double_exclamation_mark
+ E2 81 89,exclamation_question_mark
+ 38 E2 83 A3,digit_eight_+_combining_enclosing_keycap
+ 39 E2 83 A3,digit_nine_+_combining_enclosing_keycap
+ 37 E2 83 A3,digit_seven_+_combining_enclosing_keycap
+ 36 E2 83 A3,digit_six_+_combining_enclosing_keycap
+ 31 E2 83 A3,digit_one_+_combining_enclosing_keycap
+ 30 E2 83 A3,digit_zero_+_combining_enclosing_keycap
+ 32 E2 83 A3,digit_two_+_combining_enclosing_keycap
+ 33 E2 83 A3,digit_three_+_combining_enclosing_keycap
+ 35 E2 83 A3,digit_five_+_combining_enclosing_keycap
+ 34 E2 83 A3,digit_four_+_combining_enclosing_keycap
+ 23 E2 83 A3,number_sign_+_combining_enclosing_keycap
+ E2 84 A2,trade_mark_sign
+ E2 84 B9,information_source
+ E2 86 94,left_right_arrow
+ E2 86 95,up_down_arrow
+ E2 86 96,north_west_arrow
+ E2 86 97,north_east_arrow
+ E2 86 98,south_east_arrow
+ E2 86 99,south_west_arrow
+ E2 86 A9,leftwards_arrow_with_hook
+ E2 86 AA,rightwards_arrow_with_hook
+ E2 8C 9A,watch
+ E2 8C 9B,hourglass
+ E2 8F A9,black_right-pointing_double_triangle
+ E2 8F AA,black_left-pointing_double_triangle
+ E2 8F AB,black_up-pointing_double_triangle
+ E2 8F AC,black_down-pointing_double_triangle
+ E2 8F B0,alarm_clock
+ E2 8F B3,hourglass_with_flowing_sand
+ E2 96 AA,black_small_square
+ E2 96 AB,white_small_square
+ E2 96 B6,black_right-pointing_triangle
+ E2 97 80,black_left-pointing_triangle
+ E2 97 BB,white_medium_square
+ E2 97 BC,black_medium_square
+ E2 97 BD,white_medium_small_square
+ E2 97 BE,black_medium_small_square
+ E2 98 80,black_sun_with_rays
+ E2 98 81,cloud
+ E2 98 8E,black_telephone
+ E2 98 91,ballot_box_with_check
+ E2 98 94,umbrella_with_rain_drops
+ E2 98 95,hot_beverage
+ E2 98 9D,white_up_pointing_index
+ E2 98 BA,white_smiling_face
+ E2 99 88,aries
+ E2 99 89,taurus
+ E2 99 8A,gemini
+ E2 99 8B,cancer
+ E2 99 8C,leo
+ E2 99 8D,virgo
+ E2 99 8E,libra
+ E2 99 8F,scorpius
+ E2 99 90,sagittarius
+ E2 99 91,capricorn
+ E2 99 92,aquarius
+ E2 99 93,pisces
+ E2 99 A0,black_spade_suit
+ E2 99 A3,black_club_suit
+ E2 99 A5,black_heart_suit
+ E2 99 A6,black_diamond_suit
+ E2 99 A8,hot_springs
+ E2 99 BB,black_universal_recycling_symbol
+ E2 99 BF,wheelchair_symbol
+ E2 9A 93,anchor
+ E2 9A A0,warning_sign
+ E2 9A A1,high_voltage_sign
+ E2 9A AA,medium_white_circle
+ E2 9A AB,medium_black_circle
+ E2 9A BD,soccer_ball
+ E2 9A BE,baseball
+ E2 9B 84,snowman_without_snow
+ E2 9B 85,sun_behind_cloud
+ E2 9B 8E,ophiuchus
+ E2 9B 94,no_entry
+ E2 9B AA,church
+ E2 9B B2,fountain
+ E2 9B B3,flag_in_hole
+ E2 9B B5,sailboat
+ E2 9B BA,tent
+ E2 9B BD,fuel_pump
+ E2 A4 B4,arrow_pointing_rightwards_then_curving_upwards
+ E2 A4 B5,arrow_pointing_rightwards_then_curving_downwards
+ E2 AC 85,leftwards_black_arrow
+ E2 AC 86,upwards_black_arrow
+ E2 AC 87,downwards_black_arrow
+ E2 AC 9B,black_large_square
+ E2 AC 9C,white_large_square
+ E2 AD 90,white_medium_star
+ E2 AD 95,heavy_large_circle
+ E3 80 B0,wavy_dash
+ E3 80 BD,part_alternation_mark
+ E3 8A 97,circled_ideograph_congratulation
+ E3 8A 99,circled_ideograph_secret
+ F0 9F 80 84,mahjong_tile_red_dragon
+ F0 9F 83 8F,playing_card_black_joker
+ F0 9F 8C 80,cyclone
+ F0 9F 8C 81,foggy
+ F0 9F 8C 82,closed_umbrella
+ F0 9F 8C 83,night_with_stars
+ F0 9F 8C 84,sunrise_over_mountains
+ F0 9F 8C 85,sunrise
+ F0 9F 8C 86,cityscape_at_dusk
+ F0 9F 8C 87,sunset_over_buildings
+ F0 9F 8C 88,rainbow
+ F0 9F 8C 89,bridge_at_night
+ F0 9F 8C 8A,water_wave
+ F0 9F 8C 8B,volcano
+ F0 9F 8C 8C,milky_way
+ F0 9F 8C 8F,earth_globe_asia-australia
+ F0 9F 8C 91,new_moon_symbol
+ F0 9F 8C 93,first_quarter_moon_symbol
+ F0 9F 8C 94,waxing_gibbous_moon_symbol
+ F0 9F 8C 95,full_moon_symbol
+ F0 9F 8C 99,crescent_moon
+ F0 9F 8C 9B,first_quarter_moon_with_face
+ F0 9F 8C 9F,glowing_star
+ F0 9F 8C A0,shooting_star
+ F0 9F 8C B0,chestnut
+ F0 9F 8C B1,seedling
+ F0 9F 8C B4,palm_tree
+ F0 9F 8C B5,cactus
+ F0 9F 8C B7,tulip
+ F0 9F 8C B8,cherry_blossom
+ F0 9F 8C B9,rose
+ F0 9F 8C BA,hibiscus
+ F0 9F 8C BB,sunflower
+ F0 9F 8C BC,blossom
+ F0 9F 8C BD,ear_of_maize
+ F0 9F 8C BE,ear_of_rice
+ F0 9F 8C BF,herb
+ F0 9F 8D 80,four_leaf_clover
+ F0 9F 8D 81,maple_leaf
+ F0 9F 8D 82,fallen_leaf
+ F0 9F 8D 83,leaf_fluttering_in_wind
+ F0 9F 8D 84,mushroom
+ F0 9F 8D 85,tomato
+ F0 9F 8D 86,aubergine
+ F0 9F 8D 87,grapes
+ F0 9F 8D 88,melon
+ F0 9F 8D 89,watermelon
+ F0 9F 8D 8A,tangerine
+ F0 9F 8D 8C,banana
+ F0 9F 8D 8D,pineapple
+ F0 9F 8D 8E,red_apple
+ F0 9F 8D 8F,green_apple
+ F0 9F 8D 91,peach
+ F0 9F 8D 92,cherries
+ F0 9F 8D 93,strawberry
+ F0 9F 8D 94,hamburger
+ F0 9F 8D 95,slice_of_pizza
+ F0 9F 8D 96,meat_on_bone
+ F0 9F 8D 97,poultry_leg
+ F0 9F 8D 98,rice_cracker
+ F0 9F 8D 99,rice_ball
+ F0 9F 8D 9A,cooked_rice
+ F0 9F 8D 9B,curry_and_rice
+ F0 9F 8D 9C,steaming_bowl
+ F0 9F 8D 9D,spaghetti
+ F0 9F 8D 9E,bread
+ F0 9F 8D 9F,french_fries
+ F0 9F 8D A0,roasted_sweet_potato
+ F0 9F 8D A1,dango
+ F0 9F 8D A2,oden
+ F0 9F 8D A3,sushi
+ F0 9F 8D A4,fried_shrimp
+ F0 9F 8D A5,fish_cake_with_swirl_design
+ F0 9F 8D A6,soft_ice_cream
+ F0 9F 8D A7,shaved_ice
+ F0 9F 8D A8,ice_cream
+ F0 9F 8D A9,doughnut
+ F0 9F 8D AA,cookie
+ F0 9F 8D AB,chocolate_bar
+ F0 9F 8D AC,candy
+ F0 9F 8D AD,lollipop
+ F0 9F 8D AE,custard
+ F0 9F 8D AF,honey_pot
+ F0 9F 8D B0,shortcake
+ F0 9F 8D B1,bento_box
+ F0 9F 8D B2,pot_of_food
+ F0 9F 8D B3,cooking
+ F0 9F 8D B4,fork_and_knife
+ F0 9F 8D B5,teacup_without_handle
+ F0 9F 8D B6,sake_bottle_and_cup
+ F0 9F 8D B7,wine_glass
+ F0 9F 8D B8,cocktail_glass
+ F0 9F 8D B9,tropical_drink
+ F0 9F 8D BA,beer_mug
+ F0 9F 8D BB,clinking_beer_mugs
+ F0 9F 8E 80,ribbon
+ F0 9F 8E 81,wrapped_present
+ F0 9F 8E 82,birthday_cake
+ F0 9F 8E 83,jack-o-lantern
+ F0 9F 8E 84,christmas_tree
+ F0 9F 8E 85,father_christmas
+ F0 9F 8E 86,fireworks
+ F0 9F 8E 87,firework_sparkler
+ F0 9F 8E 88,balloon
+ F0 9F 8E 89,party_popper
+ F0 9F 8E 8A,confetti_ball
+ F0 9F 8E 8B,tanabata_tree
+ F0 9F 8E 8C,crossed_flags
+ F0 9F 8E 8D,pine_decoration
+ F0 9F 8E 8E,japanese_dolls
+ F0 9F 8E 8F,carp_streamer
+ F0 9F 8E 90,wind_chime
+ F0 9F 8E 91,moon_viewing_ceremony
+ F0 9F 8E 92,school_satchel
+ F0 9F 8E 93,graduation_cap
+ F0 9F 8E A0,carousel_horse
+ F0 9F 8E A1,ferris_wheel
+ F0 9F 8E A2,roller_coaster
+ F0 9F 8E A3,fishing_pole_and_fish
+ F0 9F 8E A4,microphone
+ F0 9F 8E A5,movie_camera
+ F0 9F 8E A6,cinema
+ F0 9F 8E A7,headphone
+ F0 9F 8E A8,artist_palette
+ F0 9F 8E A9,top_hat
+ F0 9F 8E AA,circus_tent
+ F0 9F 8E AB,ticket
+ F0 9F 8E AC,clapper_board
+ F0 9F 8E AD,performing_arts
+ F0 9F 8E AE,video_game
+ F0 9F 8E AF,direct_hit
+ F0 9F 8E B0,slot_machine
+ F0 9F 8E B1,billiards
+ F0 9F 8E B2,game_die
+ F0 9F 8E B3,bowling
+ F0 9F 8E B4,flower_playing_cards
+ F0 9F 8E B5,musical_note
+ F0 9F 8E B6,multiple_musical_notes
+ F0 9F 8E B7,saxophone
+ F0 9F 8E B8,guitar
+ F0 9F 8E B9,musical_keyboard
+ F0 9F 8E BA,trumpet
+ F0 9F 8E BB,violin
+ F0 9F 8E BC,musical_score
+ F0 9F 8E BD,running_shirt_with_sash
+ F0 9F 8E BE,tennis_racquet_and_ball
+ F0 9F 8E BF,ski_and_ski_boot
+ F0 9F 8F 80,basketball_and_hoop
+ F0 9F 8F 81,chequered_flag
+ F0 9F 8F 82,snowboarder
+ F0 9F 8F 83,runner
+ F0 9F 8F 84,surfer
+ F0 9F 8F 86,trophy
+ F0 9F 8F 88,american_football
+ F0 9F 8F 8A,swimmer
+ F0 9F 8F A0,house_building
+ F0 9F 8F A1,house_with_garden
+ F0 9F 8F A2,office_building
+ F0 9F 8F A3,japanese_post_office
+ F0 9F 8F A5,hospital
+ F0 9F 8F A6,bank
+ F0 9F 8F A7,automated_teller_machine
+ F0 9F 8F A8,hotel
+ F0 9F 8F A9,love_hotel
+ F0 9F 8F AA,convenience_store
+ F0 9F 8F AB,school
+ F0 9F 8F AC,department_store
+ F0 9F 8F AD,factory
+ F0 9F 8F AE,izakaya_lantern
+ F0 9F 8F AF,japanese_castle
+ F0 9F 8F B0,european_castle
+ F0 9F 90 8C,snail
+ F0 9F 90 8D,snake
+ F0 9F 90 8E,horse
+ F0 9F 90 91,sheep
+ F0 9F 90 92,monkey
+ F0 9F 90 94,chicken
+ F0 9F 90 97,boar
+ F0 9F 90 98,elephant
+ F0 9F 90 99,octopus
+ F0 9F 90 9A,spiral_shell
+ F0 9F 90 9B,bug
+ F0 9F 90 9C,ant
+ F0 9F 90 9D,honeybee
+ F0 9F 90 9E,lady_beetle
+ F0 9F 90 9F,fish
+ F0 9F 90 A0,tropical_fish
+ F0 9F 90 A1,blowfish
+ F0 9F 90 A2,turtle
+ F0 9F 90 A3,hatching_chick
+ F0 9F 90 A4,baby_chick
+ F0 9F 90 A5,front-facing_baby_chick
+ F0 9F 90 A6,bird
+ F0 9F 90 A7,penguin
+ F0 9F 90 A8,koala
+ F0 9F 90 A9,poodle
+ F0 9F 90 AB,bactrian_camel
+ F0 9F 90 AC,dolphin
+ F0 9F 90 AD,mouse_face
+ F0 9F 90 AE,cow_face
+ F0 9F 90 AF,tiger_face
+ F0 9F 90 B0,rabbit_face
+ F0 9F 90 B1,cat_face
+ F0 9F 90 B2,dragon_face
+ F0 9F 90 B3,spouting_whale
+ F0 9F 90 B4,horse_face
+ F0 9F 90 B5,monkey_face
+ F0 9F 90 B6,dog_face
+ F0 9F 90 B7,pig_face
+ F0 9F 90 B8,frog_face
+ F0 9F 90 B9,hamster_face
+ F0 9F 90 BA,wolf_face
+ F0 9F 90 BB,bear_face
+ F0 9F 90 BC,panda_face
+ F0 9F 90 BD,pig_nose
+ F0 9F 90 BE,paw_prints
+ F0 9F 91 80,eyes
+ F0 9F 91 82,ear
+ F0 9F 91 83,nose
+ F0 9F 91 84,mouth
+ F0 9F 91 85,tongue
+ F0 9F 91 86,white_up_pointing_backhand_index
+ F0 9F 91 87,white_down_pointing_backhand_index
+ F0 9F 91 88,white_left_pointing_backhand_index
+ F0 9F 91 89,white_right_pointing_backhand_index
+ F0 9F 91 8A,fisted_hand_sign
+ F0 9F 91 8B,waving_hand_sign
+ F0 9F 91 8C,ok_hand_sign
+ F0 9F 91 8D,thumbs_up_sign
+ F0 9F 91 8E,thumbs_down_sign
+ F0 9F 91 8F,clapping_hands_sign
+ F0 9F 91 90,open_hands_sign
+ F0 9F 91 91,crown
+ F0 9F 91 92,womans_hat
+ F0 9F 91 93,eyeglasses
+ F0 9F 91 94,necktie
+ F0 9F 91 95,t-shirt
+ F0 9F 91 96,jeans
+ F0 9F 91 97,dress
+ F0 9F 91 98,kimono
+ F0 9F 91 99,bikini
+ F0 9F 91 9A,womans_clothes
+ F0 9F 91 9B,purse
+ F0 9F 91 9C,handbag
+ F0 9F 91 9D,pouch
+ F0 9F 91 9E,mans_shoe
+ F0 9F 91 9F,athletic_shoe
+ F0 9F 91 A0,high-heeled_shoe
+ F0 9F 91 A1,womans_sandal
+ F0 9F 91 A2,womans_boots
+ F0 9F 91 A3,footprints
+ F0 9F 91 A4,bust_in_silhouette
+ F0 9F 91 A6,boy
+ F0 9F 91 A7,girl
+ F0 9F 91 A8,man
+ F0 9F 91 A9,woman
+ F0 9F 91 AA,family
+ F0 9F 91 AB,man_and_woman_holding_hands
+ F0 9F 91 AE,police_officer
+ F0 9F 91 AF,woman_with_bunny_ears
+ F0 9F 91 B0,bride_with_veil
+ F0 9F 91 B1,person_with_blond_hair
+ F0 9F 91 B2,man_with_gua_pi_mao
+ F0 9F 91 B3,man_with_turban
+ F0 9F 91 B4,older_man
+ F0 9F 91 B5,older_woman
+ F0 9F 91 B6,baby
+ F0 9F 91 B7,construction_worker
+ F0 9F 91 B8,princess
+ F0 9F 91 B9,japanese_ogre
+ F0 9F 91 BA,japanese_goblin
+ F0 9F 91 BB,ghost
+ F0 9F 91 BC,baby_angel
+ F0 9F 91 BD,extraterrestrial_alien
+ F0 9F 91 BE,alien_monster
+ F0 9F 91 BF,imp
+ F0 9F 92 80,skull
+ F0 9F 92 81,information_desk_person
+ F0 9F 92 82,guardsman
+ F0 9F 92 83,dancer
+ F0 9F 92 84,lipstick
+ F0 9F 92 85,nail_polish
+ F0 9F 92 86,face_massage
+ F0 9F 92 87,haircut
+ F0 9F 92 88,barber_pole
+ F0 9F 92 89,syringe
+ F0 9F 92 8A,pill
+ F0 9F 92 8B,kiss_mark
+ F0 9F 92 8C,love_letter
+ F0 9F 92 8D,ring
+ F0 9F 92 8E,gem_stone
+ F0 9F 92 8F,kiss
+ F0 9F 92 90,bouquet
+ F0 9F 92 91,couple_with_heart
+ F0 9F 92 92,wedding
+ F0 9F 92 93,beating_heart
+ F0 9F 92 94,broken_heart
+ F0 9F 92 95,two_hearts
+ F0 9F 92 96,sparkling_heart
+ F0 9F 92 97,growing_heart
+ F0 9F 92 98,heart_with_arrow
+ F0 9F 92 99,blue_heart
+ F0 9F 92 9A,green_heart
+ F0 9F 92 9B,yellow_heart
+ F0 9F 92 9C,purple_heart
+ F0 9F 92 9D,heart_with_ribbon
+ F0 9F 92 9E,revolving_hearts
+ F0 9F 92 9F,heart_decoration
+ F0 9F 92 A0,diamond_shape_with_a_dot_inside
+ F0 9F 92 A1,electric_light_bulb
+ F0 9F 92 A2,anger_symbol
+ F0 9F 92 A3,bomb
+ F0 9F 92 A4,sleeping_symbol
+ F0 9F 92 A5,collision_symbol
+ F0 9F 92 A6,splashing_sweat_symbol
+ F0 9F 92 A7,droplet
+ F0 9F 92 A8,dash_symbol
+ F0 9F 92 A9,pile_of_poo
+ F0 9F 92 AA,flexed_biceps
+ F0 9F 92 AB,dizzy_symbol
+ F0 9F 92 AC,speech_balloon
+ F0 9F 92 AE,white_flower
+ F0 9F 92 AF,hundred_points_symbol
+ F0 9F 92 B0,money_bag
+ F0 9F 92 B1,currency_exchange
+ F0 9F 92 B2,heavy_dollar_sign
+ F0 9F 92 B3,credit_card
+ F0 9F 92 B4,banknote_with_yen_sign
+ F0 9F 92 B5,banknote_with_dollar_sign
+ F0 9F 92 B8,money_with_wings
+ F0 9F 92 B9,chart_with_upwards_trend_and_yen_sign
+ F0 9F 92 BA,seat
+ F0 9F 92 BB,personal_computer
+ F0 9F 92 BC,briefcase
+ F0 9F 92 BD,minidisc
+ F0 9F 92 BE,floppy_disk
+ F0 9F 92 BF,optical_disc
+ F0 9F 93 80,dvd
+ F0 9F 93 81,file_folder
+ F0 9F 93 82,open_file_folder
+ F0 9F 93 83,page_with_curl
+ F0 9F 93 84,page_facing_up
+ F0 9F 93 85,calendar
+ F0 9F 93 86,tear-off_calendar
+ F0 9F 93 87,card_index
+ F0 9F 93 88,chart_with_upwards_trend
+ F0 9F 93 89,chart_with_downwards_trend
+ F0 9F 93 8A,bar_chart
+ F0 9F 93 8B,clipboard
+ F0 9F 93 8C,pushpin
+ F0 9F 93 8D,round_pushpin
+ F0 9F 93 8E,paperclip
+ F0 9F 93 8F,straight_ruler
+ F0 9F 93 90,triangular_ruler
+ F0 9F 93 91,bookmark_tabs
+ F0 9F 93 92,ledger
+ F0 9F 93 93,notebook
+ F0 9F 93 94,notebook_with_decorative_cover
+ F0 9F 93 95,closed_book
+ F0 9F 93 96,open_book
+ F0 9F 93 97,green_book
+ F0 9F 93 98,blue_book
+ F0 9F 93 99,orange_book
+ F0 9F 93 9A,books
+ F0 9F 93 9B,name_badge
+ F0 9F 93 9C,scroll
+ F0 9F 93 9D,memo
+ F0 9F 93 9E,telephone_receiver
+ F0 9F 93 9F,pager
+ F0 9F 93 A0,fax_machine
+ F0 9F 93 A1,satellite_antenna
+ F0 9F 93 A2,public_address_loudspeaker
+ F0 9F 93 A3,cheering_megaphone
+ F0 9F 93 A4,outbox_tray
+ F0 9F 93 A5,inbox_tray
+ F0 9F 93 A6,package
+ F0 9F 93 A7,e-mail_symbol
+ F0 9F 93 A8,incoming_envelope
+ F0 9F 93 A9,envelope_with_downwards_arrow_above
+ F0 9F 93 AA,closed_mailbox_with_lowered_flag
+ F0 9F 93 AB,closed_mailbox_with_raised_flag
+ F0 9F 93 AE,postbox
+ F0 9F 93 B0,newspaper
+ F0 9F 93 B1,mobile_phone
+ F0 9F 93 B2,mobile_phone_with_rightwards_arrow_at_left
+ F0 9F 93 B3,vibration_mode
+ F0 9F 93 B4,mobile_phone_off
+ F0 9F 93 B6,antenna_with_bars
+ F0 9F 93 B7,camera
+ F0 9F 93 B9,video_camera
+ F0 9F 93 BA,television
+ F0 9F 93 BB,radio
+ F0 9F 93 BC,videocassette
+ F0 9F 94 83,clockwise_downwards_and_upwards_open_circle_arrows
+ F0 9F 94 8A,speaker_with_three_sound_waves
+ F0 9F 94 8B,battery
+ F0 9F 94 8C,electric_plug
+ F0 9F 94 8D,left-pointing_magnifying_glass
+ F0 9F 94 8E,right-pointing_magnifying_glass
+ F0 9F 94 8F,lock_with_ink_pen
+ F0 9F 94 90,closed_lock_with_key
+ F0 9F 94 91,key
+ F0 9F 94 92,lock
+ F0 9F 94 93,open_lock
+ F0 9F 94 94,bell
+ F0 9F 94 96,bookmark
+ F0 9F 94 97,link_symbol
+ F0 9F 94 98,radio_button
+ F0 9F 94 99,back_with_leftwards_arrow_above
+ F0 9F 94 9A,end_with_leftwards_arrow_above
+ F0 9F 94 9B,on_with_exclamation_mark_with_left_right_arrow_above
+ F0 9F 94 9C,soon_with_rightwards_arrow_above
+ F0 9F 94 9D,top_with_upwards_arrow_above
+ F0 9F 94 9E,no_one_under_eighteen_symbol
+ F0 9F 94 9F,keycap_ten
+ F0 9F 94 A0,input_symbol_for_latin_capital_letters
+ F0 9F 94 A1,input_symbol_for_latin_small_letters
+ F0 9F 94 A2,input_symbol_for_numbers
+ F0 9F 94 A3,input_symbol_for_symbols
+ F0 9F 94 A4,input_symbol_for_latin_letters
+ F0 9F 94 A5,fire
+ F0 9F 94 A6,electric_torch
+ F0 9F 94 A7,wrench
+ F0 9F 94 A8,hammer
+ F0 9F 94 A9,nut_and_bolt
+ F0 9F 94 AA,hocho
+ F0 9F 94 AB,pistol
+ F0 9F 94 AE,crystal_ball
+ F0 9F 94 AF,six_pointed_star_with_middle_dot
+ F0 9F 94 B0,japanese_symbol_for_beginner
+ F0 9F 94 B1,trident_emblem
+ F0 9F 94 B2,black_square_button
+ F0 9F 94 B3,white_square_button
+ F0 9F 94 B4,large_red_circle
+ F0 9F 94 B5,large_blue_circle
+ F0 9F 94 B6,large_orange_diamond
+ F0 9F 94 B7,large_blue_diamond
+ F0 9F 94 B8,small_orange_diamond
+ F0 9F 94 B9,small_blue_diamond
+ F0 9F 94 BA,up-pointing_red_triangle
+ F0 9F 94 BB,down-pointing_red_triangle
+ F0 9F 94 BC,up-pointing_small_red_triangle
+ F0 9F 94 BD,down-pointing_small_red_triangle
+ F0 9F 95 90,clock_face_one_oclock
+ F0 9F 95 91,clock_face_two_oclock
+ F0 9F 95 92,clock_face_three_oclock
+ F0 9F 95 93,clock_face_four_oclock
+ F0 9F 95 94,clock_face_five_oclock
+ F0 9F 95 95,clock_face_six_oclock
+ F0 9F 95 96,clock_face_seven_oclock
+ F0 9F 95 97,clock_face_eight_oclock
+ F0 9F 95 98,clock_face_nine_oclock
+ F0 9F 95 99,clock_face_ten_oclock
+ F0 9F 95 9A,clock_face_eleven_oclock
+ F0 9F 95 9B,clock_face_twelve_oclock
+ F0 9F 97 BB,mount_fuji
+ F0 9F 97 BC,tokyo_tower
+ F0 9F 97 BD,statue_of_liberty
+ F0 9F 97 BE,silhouette_of_japan
+ F0 9F 97 BF,moyai
+ F0 9F 98 80,grinning_face
+ F0 9F 98 87,smiling_face_with_halo
+ F0 9F 98 88,smiling_face_with_horns
+ F0 9F 98 8E,smiling_face_with_sunglasses
+ F0 9F 98 90,neutral_face
+ F0 9F 98 91,expressionless_face
+ F0 9F 98 95,confused_face
+ F0 9F 98 97,kissing_face
+ F0 9F 98 99,kissing_face_with_smiling_eyes
+ F0 9F 98 9B,face_with_stuck-out_tongue
+ F0 9F 98 9F,worried_face
+ F0 9F 98 A6,frowning_face_with_open_mouth
+ F0 9F 98 A7,anguished_face
+ F0 9F 98 AC,grimacing_face
+ F0 9F 98 AE,face_with_open_mouth
+ F0 9F 98 AF,hushed_face
+ F0 9F 98 B4,sleeping_face
+ F0 9F 98 B6,face_without_mouth
+ F0 9F 9A 81,helicopter
+ F0 9F 9A 82,steam_locomotive
+ F0 9F 9A 86,train
+ F0 9F 9A 88,light_rail
+ F0 9F 9A 8A,tram
+ F0 9F 9A 8D,oncoming_bus
+ F0 9F 9A 8E,trolleybus
+ F0 9F 9A 90,minibus
+ F0 9F 9A 94,oncoming_police_car
+ F0 9F 9A 96,oncoming_taxi
+ F0 9F 9A 98,oncoming_automobile
+ F0 9F 9A 9B,articulated_lorry
+ F0 9F 9A 9C,tractor
+ F0 9F 9A 9D,monorail
+ F0 9F 9A 9E,mountain_railway
+ F0 9F 9A 9F,suspension_railway
+ F0 9F 9A A0,mountain_cableway
+ F0 9F 9A A1,aerial_tramway
+ F0 9F 9A A3,rowboat
+ F0 9F 9A A6,vertical_traffic_light
+ F0 9F 9A AE,put_litter_in_its_place_symbol
+ F0 9F 9A AF,do_not_litter_symbol
+ F0 9F 9A B0,potable_water_symbol
+ F0 9F 9A B1,non-potable_water_symbol
+ F0 9F 9A B3,no_bicycles
+ F0 9F 9A B4,bicyclist
+ F0 9F 9A B5,mountain_bicyclist
+ F0 9F 9A B7,no_pedestrians
+ F0 9F 9A B8,children_crossing
+ F0 9F 9A BF,shower
+ F0 9F 9B 81,bathtub
+ F0 9F 9B 82,passport_control
+ F0 9F 9B 83,customs
+ F0 9F 9B 84,baggage_claim
+ F0 9F 9B 85,left_luggage
+ F0 9F 8C 8D,earth_globe_europe-africa
+ F0 9F 8C 8E,earth_globe_americas
+ F0 9F 8C 90,globe_with_meridians
+ F0 9F 8C 92,waxing_crescent_moon_symbol
+ F0 9F 8C 96,waning_gibbous_moon_symbol
+ F0 9F 8C 97,last_quarter_moon_symbol
+ F0 9F 8C 98,waning_crescent_moon_symbol
+ F0 9F 8C 9A,new_moon_with_face
+ F0 9F 8C 9C,last_quarter_moon_with_face
+ F0 9F 8C 9D,full_moon_with_face
+ F0 9F 8C 9E,sun_with_face
+ F0 9F 8C B2,evergreen_tree
+ F0 9F 8C B3,deciduous_tree
+ F0 9F 8D 8B,lemon
+ F0 9F 8D 90,pear
+ F0 9F 8D BC,baby_bottle
+ F0 9F 8F 87,horse_racing
+ F0 9F 8F 89,rugby_football
+ F0 9F 8F A4,european_post_office
+ F0 9F 90 80,rat
+ F0 9F 90 81,mouse
+ F0 9F 90 82,ox
+ F0 9F 90 83,water_buffalo
+ F0 9F 90 84,cow
+ F0 9F 90 85,tiger
+ F0 9F 90 86,leopard
+ F0 9F 90 87,rabbit
+ F0 9F 90 88,cat
+ F0 9F 90 89,dragon
+ F0 9F 90 8A,crocodile
+ F0 9F 90 8B,whale
+ F0 9F 90 8F,ram
+ F0 9F 90 90,goat
+ F0 9F 90 93,rooster
+ F0 9F 90 95,dog
+ F0 9F 90 96,pig
+ F0 9F 90 AA,dromedary_camel
+ F0 9F 91 A5,busts_in_silhouette
+ F0 9F 91 AC,two_men_holding_hands
+ F0 9F 91 AD,two_women_holding_hands
+ F0 9F 92 AD,thought_balloon
+ F0 9F 92 B6,banknote_with_euro_sign
+ F0 9F 92 B7,banknote_with_pound_sign
+ F0 9F 93 AC,open_mailbox_with_raised_flag
+ F0 9F 93 AD,open_mailbox_with_lowered_flag
+ F0 9F 93 AF,postal_horn
+ F0 9F 93 B5,no_mobile_phones
+ F0 9F 94 80,twisted_rightwards_arrows
+ F0 9F 94 81,clockwise_rightwards_and_leftwards_open_circle_arrows
+ F0 9F 94 82,clockwise_rightwards_and_leftwards_open_circle_arrows_with_circled_one_overlay
+ F0 9F 94 84,anticlockwise_downwards_and_upwards_open_circle_arrows
+ F0 9F 94 85,low_brightness_symbol
+ F0 9F 94 86,high_brightness_symbol
+ F0 9F 94 87,speaker_with_cancellation_stroke
+ F0 9F 94 89,speaker_with_one_sound_wave
+ F0 9F 94 95,bell_with_cancellation_stroke
+ F0 9F 94 AC,microscope
+ F0 9F 94 AD,telescope
+ F0 9F 95 9C,clock_face_one-thirty
+ F0 9F 95 9D,clock_face_two-thirty
+ F0 9F 95 9E,clock_face_three-thirty
+ F0 9F 95 9F,clock_face_four-thirty
+ F0 9F 95 A0,clock_face_five-thirty
+ F0 9F 95 A1,clock_face_six-thirty
+ F0 9F 95 A2,clock_face_seven-thirty
+ F0 9F 95 A3,clock_face_eight-thirty
+ F0 9F 95 A4,clock_face_nine-thirty
+ F0 9F 95 A5,clock_face_ten-thirty
+ F0 9F 95 A6,clock_face_eleven-thirty
+ F0 9F 95 A7,clock_face_twelve-thirty
